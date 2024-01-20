@@ -35,5 +35,10 @@ experience.
 - Provide customer service to visitors and adopters, address inquiries, and share information about the adoption
 process and other cat services like license information and veterinary information.  
 
+**Relevant Skills & Courseworks:**
+Computer Programming (Java, Python, R, SQLite); Web Development (JS, HTML, CSS, React.js); Software
+Tools(Figma, Asperite, Unity, AutoCAD); Data Structure; Machine Learning, CyberSecurity; GIS; Geography; Art  
+Languages: Fluent in Chinese, and English; Elementary Proficiency in Japanese
+
 
 [University of Washington Seattle]: https://www.washington.edu/
