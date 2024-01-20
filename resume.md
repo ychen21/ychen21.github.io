@@ -11,6 +11,8 @@ https://www.linkedin.com/in/yechen-zhen-45476b273/
 ## University of Washington (Seatte, WA)
 
 * [University of Washington Seattle][] A purple campus with lots of cherry blossoms and huskies(students).
+![UW Picture](https://phil.washington.edu/sites/phil/files/styles/front_slideshow_alternate/public/images/homepage_slider_3.png?itok=aJIRA4je&c=3bf0ae1ba971399cee6e06b82ec666f2)
+
 
 **Bachelor’s of Arts in Geography : Data Science Track(3.87/4.0); Minor in Infomatics** Sep 2020 - Jun 2024
 **Dean's List of 2023**
